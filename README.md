@@ -1,6 +1,6 @@
 ![Header](https://github.com/Denis-Panin/Denis-Panin/blob/main/assets/Header_2_git.jpg)
 
-## <strong>Hi 👋, i'm beginner Python developer.</strong>
+## <strong>Hi 👋, i'm Python developer.</strong>
 
 ## <strong>languages and which technologies I studied and study:</strong>
 
