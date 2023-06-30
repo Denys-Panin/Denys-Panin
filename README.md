@@ -11,8 +11,8 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/denis-panin/) [![Telegram](https://img.shields.io/badge/telegram-006496?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/denis1panin) [![Instagram](https://img.shields.io/badge/instagram-eae3e9?style=for-the-badge&logo=instagram&logoColor=c436a6)](https://www.instagram.com/python__developer__/)
 
 ## <strong> My certificate's </strong>
-![Certificate_1]([14210954_en.pdf](https://github.com/Denis-Panin/Denis-Panin/files/11918995/14210954_en.pdf)
-)
+![Certificate_1](https://github.com/Denis-Panin/Denys-Panin/blob/main/assets/14210954_en.pdf)
+
 
 ![Certificate_2]([97298422_en.pdf](https://github.com/Denis-Panin/Denis-Panin/files/11919015/97298422_en.pdf)
 )
