@@ -8,7 +8,8 @@
 
 ## <strong> Follow me: </strong>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/denis-panin/) [![Telegram](https://img.shields.io/badge/telegram-006496?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/denis1panin) [![Instagram](https://img.shields.io/badge/instagram-eae3e9?style=for-the-badge&logo=instagram&logoColor=c436a6)](https://www.instagram.com/python__developer__/)
+[![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/denis-panin/) [![Telegram](https://img.shields.io/badge/telegram-006496?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/denis1panin) 
+<!--[![Instagram](https://img.shields.io/badge/instagram-eae3e9?style=for-the-badge&logo=instagram&logoColor=c436a6)](https://www.instagram.com/python__developer__/) -->
 
 ## <strong> My certificates: </strong>
  <img src="https://github.com/Denys-Panin/Denys-Panin/blob/main/assets/TP73729746_page-0001.jpg" alt="Certificate_5" width="270" height="170" /> <img src="https://github.com/Denys-Panin/Denys-Panin/blob/main/assets/97298422_en_page-0001.jpg" alt="Certificate_1" width="270" height="170" /> <img src="https://github.com/Denys-Panin/Denys-Panin/blob/main/assets/14210954_en_pages-to-jpg-0001.jpg" alt="Certificate_2" width="270" height="170" /> <img src="https://github.com/Denys-Panin/Denys-Panin/blob/main/assets/TP99771843_page-0001.jpg" alt="Certificate_3" width="270" height="170" /> <img src="https://github.com/Denys-Panin/Denys-Panin/blob/main/assets/TP16810485_page-0001.jpg" alt="Certificate_4" width="270" height="170" />
