@@ -1,6 +1,10 @@
 <!-- ![Header](https://github.com/Denys-Panin/Denys-Panin/blob/main/assets/Header_2_git.jpg) -->
 
 ## <strong>Hi there 🙋🏻‍♂️, I'm Denys Panin.</strong>
+## 💻 Operating systems:
+[![Linux](https://img.shields.io/badge/LInux-F47421?style=for-the-badge&logo=Linux&logoColor=141c19)](https://linux.org/)
+[![macOS](https://img.shields.io/badge/macOS-FAFAFA?style=for-the-badge&logo=macOS&logoColor=141c19)](https://www.apple.com/mac/)
+[![Windows](https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=Windows&logoColor=fff)](https://www.microsoft.com/en-us)
 ## 🛠️ Languages, Technologies & Tools:
 
 - **Languages**:\
@@ -32,6 +36,6 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-e5ded5?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/denys-panin/)
 <!--[![Instagram](https://img.shields.io/badge/instagram-eae3e9?style=for-the-badge&logo=instagram&logoColor=c436a6)](https://www.instagram.com/python__developer__/) -->
 
-📈 **GitHub Stats**
+## 📊 GitHub Stats
 
 ![Personal GitHub stats](https://github-readme-stats.vercel.app/api?username=Denys-Panin&show_icons=true&theme=transparent&custom_title=Personal%20GitHub%20Stats&q=1)
