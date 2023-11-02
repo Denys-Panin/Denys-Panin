@@ -23,11 +23,13 @@
 - **Back-end**:\
   [![Laravel](https://img.shields.io/badge/laravel-e5e0e0?style=for-the-badge&logo=laravel&logoColor=f4362d)](https://laravel.com/)
 
-<!--## 🧳 Work Experience: -->
+## 🧳 Work Experience:
+- **Back-end Python Developer** , "VeAn Tattoo" _(2021 - 2023)_
+- **Back-end Python Developer**, "Freelance" _(2021)_
 
 ## 📩 How to reach with me:
 
-[![Linkedin](https://img.shields.io/badge/linkedin-e5ded5?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/denis-panin/)
+[![Linkedin](https://img.shields.io/badge/linkedin-e5ded5?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/denys-panin/)
 <!--[![Instagram](https://img.shields.io/badge/instagram-eae3e9?style=for-the-badge&logo=instagram&logoColor=c436a6)](https://www.instagram.com/python__developer__/) -->
 
 📈 **GitHub Stats**
