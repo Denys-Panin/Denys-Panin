@@ -24,7 +24,7 @@
 ## 📖 I'm currently learning:
 - **Languages**:\
     [![GO](https://img.shields.io/badge/GO-007D9C?style=for-the-badge&logo=GO&logoColor=fff)](https://go.dev/) [![JavaScript](https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=Javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- **Back-end**:\
+- **Framework**:\
   [![Laravel](https://img.shields.io/badge/laravel-e5e0e0?style=for-the-badge&logo=laravel&logoColor=f4362d)](https://laravel.com/)
 
 ## 🧳 Work Experience:
