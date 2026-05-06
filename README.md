@@ -41,7 +41,7 @@
   [![Laravel](https://img.shields.io/badge/laravel-e5e0e0?style=for-the-badge&logo=laravel&logoColor=f4362d)](https://laravel.com/) -->
 
 ## 🧳 Work Experience:
-- **DevOps Engineer** , "Adamanta" _(2025 - Present)_
+- **DevOps Engineer** , "Adamanta" _(2025 - 2026)_
 - **Back-end Python Developer** , "VeAn Tattoo" _(2021 - 2025)_
 - **Back-end Python Developer**, "Freelance" _(2021)_
 
