@@ -42,7 +42,7 @@
 
 ## 🧳 Work Experience:
 - **DevOps Engineer** , "Adamanta" _(2025 - 2026)_
-- **Back-end Python Developer** , "VeAn Tattoo" _(2021 - 2025)_
+- **Back-end Python Developer / DevOps Engineer** , "VeAn Tattoo" _(2021 - 2025)_
 - **Back-end Python Developer**, "Freelance" _(2021)_
 
 ## 📩 How to reach with me:
