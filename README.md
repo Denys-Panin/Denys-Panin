@@ -1,6 +1,6 @@
 <!-- ![Header](https://github.com/Denys-Panin/Denys-Panin/blob/main/assets/Header_2_git.jpg) -->
 
-## <strong>Hi there 🙋🏻‍♂️, I'm Denys Panin.</strong>
+## <strong>Hi there 🙋🏻‍♂️, I'm Denys Panin "DevOps Engineer".</strong>
 ## 💻 Operating systems:
 [![Linux](https://img.shields.io/badge/LInux-F47421?style=for-the-badge&logo=Linux&logoColor=141c19)](https://linux.org/)
 [![macOS](https://img.shields.io/badge/macOS-FAFAFA?style=for-the-badge&logo=macOS&logoColor=141c19)](https://www.apple.com/mac/)
@@ -13,7 +13,7 @@
      [![Grafana](https://img.shields.io/badge/Grafana-EABCE2?style=for-the-badge&logo=grafana&logoColor=FF671D)](https://grafana.com/) [![Loki)](https://img.shields.io/badge/loki-F6C020?style=for-the-badge&logo=loki&logoColor=FF671D)](https://github.com/grafana/loki) [![Promtail)](https://img.shields.io/badge/Promtail-2549AA?style=for-the-badge&logo=promtaili&logoColor=FF671D)](https://docs.sentinel.co/node-monitoring/logs/promtail)
 
 - **Backend Runtime**:\
-     [![Gunicorn](https://img.shields.io/badge/gunicorn-479346?style=for-the-badge&logo=gunicorn&logoColor=fff)](https://gunicorn.org/) [![Celery](https://img.shields.io/badge/celery-a9cc54?style=for-the-badge&logo=celery&logoColor=000000)](https://docs.celeryproject.org/en/stable/) [![Redis](https://img.shields.io/badge/Redis-091A23?style=for-the-badge&logo=redis&logoColor=FF671D)](https://redis.io/) [![RabbitMQ](https://img.shields.io/badge/rabbitmq-ff6600?style=for-the-badge&logo=rabbitmq&logoColor=000000)](https://www.rabbitmq.com/)
+     [![Gunicorn](https://img.shields.io/badge/gunicorn-479346?style=for-the-badge&logo=gunicorn&logoColor=fff)](https://gunicorn.org/) [![Celery](https://img.shields.io/badge/celery-a9cc54?style=for-the-badge&logo=celery&logoColor=000000)](https://docs.celeryproject.org/en/stable/) [![Redis](https://img.shields.io/badge/Redis-091A23?style=for-the-badge&logo=redis&logoColor=FF671D)](https://redis.io/) <!--[![RabbitMQ](https://img.shields.io/badge/rabbitmq-ff6600?style=for-the-badge&logo=rabbitmq&logoColor=000000)](https://www.rabbitmq.com/) -->
 
 - **Languages**:\
      [![Python](https://img.shields.io/badge/Python-ffc91e?style=for-the-badge&logo=python&logoColor=141c19)](https://www.python.org/) [![PHP](https://img.shields.io/badge/php-7a86b9?style=for-the-badge&logo=php&logoColor=1f222e)](https://www.php.net/) 
@@ -50,6 +50,6 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-e5ded5?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/denys-panin/)
 <!--[![Instagram](https://img.shields.io/badge/instagram-eae3e9?style=for-the-badge&logo=instagram&logoColor=c436a6)](https://www.instagram.com/python__developer__/) -->
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-![Personal GitHub stats](https://github-readme-stats.vercel.app/api?username=Denys-Panin&show_icons=true&theme=transparent&custom_title=Personal%20GitHub%20Stats&q=1)
+![Personal GitHub stats](https://github-readme-stats.vercel.app/api?username=Denys-Panin&show_icons=true&theme=transparent&custom_title=Personal%20GitHub%20Stats&q=1) -->
