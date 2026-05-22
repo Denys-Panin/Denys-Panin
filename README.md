@@ -12,7 +12,7 @@
 - **Monitoring**:\
      [![Grafana](https://img.shields.io/badge/Grafana-EABCE2?style=for-the-badge&logo=grafana&logoColor=FF671D)](https://grafana.com/) [![Loki)](https://img.shields.io/badge/loki-F6C020?style=for-the-badge&logo=loki&logoColor=FF671D)](https://github.com/grafana/loki) [![Promtail)](https://img.shields.io/badge/Promtail-2549AA?style=for-the-badge&logo=promtaili&logoColor=FF671D)](https://docs.sentinel.co/node-monitoring/logs/promtail)
 
-- **AI-Assisted Development**:\
+- **AI-Assisted Infrastructure & Development**:\
      [![Claude code](https://img.shields.io/badge/Claude_code-30302E?style=for-the-badge&logo=claude&logoColor=FF671D)](https://claude.com/product/claude-code) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=some&logoColor=black)](https://openai.com/)
 
 - **Backend Runtime**:\
