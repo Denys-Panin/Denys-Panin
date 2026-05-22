@@ -8,14 +8,12 @@
 ## 🛠️ Languages, Technologies & Tools:
 - **DevOps / Cloud**:\
      [![AWS (EC2, S3, RDS, IAM, CloudWatch)](https://img.shields.io/badge/AWS-F47421?style=for-the-badge&logo=Server&logoColor=141c19)](https://aws.amazon.com/) [![CI/CD](https://img.shields.io/badge/CI/CD-FD8351?style=for-the-badge&logo=&logoColor=141c19)](https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-cicd-litmus/understanding-cicd.html) [![Terraform](https://img.shields.io/badge/terraform-0C0C0E?style=for-the-badge&logo=terraform&logoColor=#7A41BC)](https://developer.hashicorp.com/terraform) [![Docker](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/) [![Docker Compose](https://img.shields.io/badge/docker_compose-1785d3?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/) [![Nginx](https://img.shields.io/badge/nginx-009137?style=for-the-badge&logo=nginx&logoColor=ffffff)](https://nginx.org/ru/)
-
-  
      
 - **Monitoring**:\
      [![Grafana](https://img.shields.io/badge/Grafana-EABCE2?style=for-the-badge&logo=grafana&logoColor=FF671D)](https://grafana.com/) [![Loki)](https://img.shields.io/badge/loki-F6C020?style=for-the-badge&logo=loki&logoColor=FF671D)](https://github.com/grafana/loki) [![Promtail)](https://img.shields.io/badge/Promtail-2549AA?style=for-the-badge&logo=promtaili&logoColor=FF671D)](https://docs.sentinel.co/node-monitoring/logs/promtail)
 
 - **AI-Assisted Development**:\
-     [![Claude code](https://img.shields.io/badge/Claude_code-30302E?style=for-the-badge&logo=claude&logoColor=FF671D)](https://claude.com/product/claude-code) [![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+     [![Claude code](https://img.shields.io/badge/Claude_code-30302E?style=for-the-badge&logo=claude&logoColor=FF671D)](https://claude.com/product/claude-code) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=some&logoColor=black)](https://openai.com/)
 
 - **Backend Runtime**:\
      [![Gunicorn](https://img.shields.io/badge/gunicorn-479346?style=for-the-badge&logo=gunicorn&logoColor=fff)](https://gunicorn.org/) [![Celery](https://img.shields.io/badge/celery-a9cc54?style=for-the-badge&logo=celery&logoColor=000000)](https://docs.celeryproject.org/en/stable/) [![Redis](https://img.shields.io/badge/Redis-091A23?style=for-the-badge&logo=redis&logoColor=FF671D)](https://redis.io/) <!--[![RabbitMQ](https://img.shields.io/badge/rabbitmq-ff6600?style=for-the-badge&logo=rabbitmq&logoColor=000000)](https://www.rabbitmq.com/) -->
