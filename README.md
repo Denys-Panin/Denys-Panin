@@ -1,6 +1,6 @@
 <!-- ![Header](https://github.com/Denys-Panin/Denys-Panin/blob/main/assets/Header_2_git.jpg) -->
 
-## <strong>Hi there 🙋🏻‍♂️, I'm Denys Panin "DevOps Engineer".</strong>
+## <strong>Hi there 🙋🏻‍♂️, I'm Denys Panin - DevOps Engineer.</strong>
 ## 💻 Operating systems:
 [![Linux](https://img.shields.io/badge/LInux-F47421?style=for-the-badge&logo=Linux&logoColor=141c19)](https://linux.org/)
 [![macOS](https://img.shields.io/badge/macOS-FAFAFA?style=for-the-badge&logo=macOS&logoColor=141c19)](https://www.apple.com/mac/)
